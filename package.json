@@ -1,6 +1,7 @@
 {
   "name": "personal-portfolio",
   "version": "0.1.0",
+  "homepage": "my-portifolio/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
