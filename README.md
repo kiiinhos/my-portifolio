@@ -4,8 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/kiiinhos/my-portfolio/assets/52426112/8a2c9b06-f594-4bd0-a33b-47dde8a0a39e">
 
-
-
 Built using:
 
 - Front-end library: React
